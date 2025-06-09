@@ -1,0 +1,8 @@
+streamlit
+gTTS
+SpeechRecognition
+requests
+schedule
+googlesearch-python
+plyer
+PyAudio 
