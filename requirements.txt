@@ -5,4 +5,3 @@ requests
 schedule
 googlesearch-python
 plyer
-PyAudio 
